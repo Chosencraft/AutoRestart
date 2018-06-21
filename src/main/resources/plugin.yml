@@ -1,0 +1,5 @@
+name: AutoRestart
+author: Kiro47
+version: 01.0
+main: com.chosencraft.www.autorestart.AutoRestartMain
+description: A basic plugin to handle automatic restarting of the Servers at a specified time.
